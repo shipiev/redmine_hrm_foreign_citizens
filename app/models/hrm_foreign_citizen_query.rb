@@ -1,0 +1,3 @@
+class HrmForeignCitizenQuery < Query
+
+end

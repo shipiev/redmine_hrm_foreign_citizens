@@ -1,0 +1,10 @@
+ru:
+  custom_fields:
+    hrm_citizen_document_custom_field:
+      name: Документы гражданина
+    hrm_citizen_document_type_custom_field:
+      name: Категории документов гражданина
+    hrm_citizenship_custom_field:
+      name: Гражданства
+    hrm_foreign_citizen_custom_field:
+      name: Иностранные граждане
